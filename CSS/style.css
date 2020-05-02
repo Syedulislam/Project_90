@@ -1,0 +1,25 @@
+.box1{
+	color: black;
+	border: width 10px 
+}
+.box2 {
+	background-color: green;
+	border-style: dotted;
+	margin: 10px;
+	display: inline-block;
+}
+
+#A1{
+	background-color:red; 
+	font-size: 40px;
+}
+.box3{
+	background-color: red;
+	margin: 100px 10px 50px;
+	display: inline;
+}
+.box4{
+	background-color: green;
+	margin-top: 100px;
+	padding: 100px;
+}
